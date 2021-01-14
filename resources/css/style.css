@@ -1,0 +1,47 @@
+*{
+    font-weight: normal;
+
+}
+body{
+    background-color: black;
+    overflow-x: hidden;
+    height: 100vh;
+    font-family: Verdana;
+    font-weight: normal;
+    color: white;
+}
+main{
+    text-align: center;
+}
+header{
+    text-align: center;
+    
+}
+header h1{ 
+    font-size: 50px;
+    color: white;
+}
+main a{
+    color: aquamarine;
+    font-size: 16px;
+    font-weight: 550;
+}
+.s2 h1{
+    font-weight: 300;
+    font-size: 42px;
+}
+.s2 p{
+    font-size: 21px;
+    color: gray;
+}
+.s3 h1{
+    font-weight: 300;
+    font-size: 42px;
+}
+footer{
+    text-align: right;
+    color: gray;
+}
+div{
+    padding-bottom: 50px;
+}
